@@ -18,3 +18,5 @@ Simple Function Generator based upon STM32G474 Nucleo Board
  - Opt: DutyCycle[%] (in square mode) 
    - range: [0; 100]
 
+## Ideas
+ - Maybe use OPAMP for getting out of the 0-3V3 range? 
